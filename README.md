@@ -151,6 +151,10 @@
 * [在线一键课程评估网站](https://fuck.idealclover.cn/) by [@idealclover](https://github.com/idealclover)
 
   由可爱的傻翠出品的南哪大学课程评估自动化网站，原本是个脚本后来被一顿魔改做成了在线网站，可以直接给老师默认好评。[GitHub](https://github.com/idealclover/Fxxk-NJU-Class-Evaluator)
+  
+* [PotatoPlus](https://github.com/cubiccm/potatoplus/) by [@cubiccm](https://github.com/cubiccm)
+  
+  南京大学教务系统插件。为教务网化上妆容，面貌焕然一新！
 
 ### Android
 
